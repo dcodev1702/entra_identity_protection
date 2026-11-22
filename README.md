@@ -8,6 +8,7 @@ Find out why Microsoft Entra keeps forcing you to sign in again every hour, and 
 | **Date** | 2026-11-22 |
 | **Version** | 1.1.0 |
 | **Requires** | PowerShell 7.2+, Microsoft Entra ID P2 |
+| **License** | [MIT](LICENSE) |
 
 ---
 
@@ -187,3 +188,7 @@ Time                  App                                SignInFrequency
 - [List signIns: permissions and CA data](https://learn.microsoft.com/graph/api/signin-list)
 - [Conditional Access: sign-in frequency](https://learn.microsoft.com/entra/identity/conditional-access/concept-session-lifetime)
 - [Remediate risks and unblock users](https://learn.microsoft.com/entra/id-protection/howto-identity-protection-remediate-unblock)
+
+## License
+
+[MIT](LICENSE) © 2026 dcodev1702
